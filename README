@@ -1,0 +1,5 @@
+The task in this data challenge wasd to:
+
+1) Create a table containing emplyee head count for each company for each day across a given span of days and across all 12 companies.
+
+2) Examine factors that effect employee churn. This analysis was performed using the Cox Proportional Hazard Model.
