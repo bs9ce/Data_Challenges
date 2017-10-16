@@ -1,5 +1,10 @@
-The task in this data challenge wasd to:
+Data Challenge 1:
+The task in this data challenge was to:
 
 1) Create a table containing emplyee head count for each company for each day across a given span of days and across all 12 companies.
 
 2) Examine factors that effect employee churn. This analysis was performed using the Cox Proportional Hazard Model.
+
+Data Challenge 2:
+
+The goal is to: (1) During an A/B test, if the increased price results in increased revenue, (2) If the test could have stopped earlier (3) What factors contribute to conersion. 
